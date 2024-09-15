@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on Krispcall(A VOIP cloud telephony system) <br>🌱 I am currently learning AWS Serverless Architecture<br>💬Ask me about system design issues<br><br>
+🔭 I am currently working on Krispcall(A VOIP cloud telephony system) <br>🌱 I am currently learning AWS Serverless Architecture<br>💬 Ask me about system design issues<br><br>
 
 
 
